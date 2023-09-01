@@ -1,0 +1,672 @@
+SOURCE - If so there must be more of her."
+TARGET - Allora è qui tutta intera.
+PREDICTED - accetti limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata accetti limonata accetti limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo Avremmo sparite sparite sparite limonata limonata limonata Avremmo Avremmo Avremmo limonata Avremmo limonata Avremmo Avremmo Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo assoluto assoluto assoluto assoluto limonata limonata limonata assoluto assoluto assoluto assoluto Avremmo Avremmo assoluto Risi Risi Risi Risi Risi Risi Risi Risi Avremmo apparentemente assoluto assoluto assoluto apparentemente assoluto apparentemente assoluto apparentemente assoluto Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi assoluto Risi Avremmo limonata accetti Risi Avremmo appigliato appigliato appigliato assoluto Risi Risi Risi Risi assoluto Risi assoluto assoluto assoluto assoluto Risi assoluto Risi Risi Risi Risi Risi assoluto Risi Risi Risi Risi Risi Risi Risi assoluto Risi limonata accorgeva Risi incarico incarico incarico incarico incarico incarico accetti limonata accetti limonata accetti limonata accetti incarico incarico incarico Risi Risi Risi Risi Risi Risi Risi Risi Risi limonata incarico incarico incarico Risi Risi Risi Risi Risi Risi assoluto assoluto assoluto Risi limonata Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi incarico incarico incarico incarico incarico incarico incarico Risi Risi Risi Risi scelleratezze Risi Risi Risi Risi scelleratezze scelleratezze scelleratezze scelleratezze scelleratezze scelleratezze limonata scelleratezze limonata incarico incarico incarico incarico incarico Risi Risi Risi incarico incarico incarico incarico incarico incarico incarico incarico
+=============================================================
+SOURCE - That is, her name is Karenina,' said Anna, screwing up her eyes till only the meeting lashes could be seen. 'However, we will talk about all that later,' said she, suddenly brightening.
+TARGET - Cioè è una Karenina — disse Anna, socchiudendo gli occhi così che le si vedevano soltanto le ciglia unite. — Del resto — disse, rischiarandosi d’un tratto in viso — di questo diremo tutto dopo.
+PREDICTED - distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata limonata limonata limonata limonata limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata elmi limonata limonata limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata limonata limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo pensarlo pensarlo pensarlo elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo elmi elmi elmi elmi elmi distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi elmi distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo elmi elmi elmi elmi elmi elmi elmi elmi elmi distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo palude palude palude palude elmi elmi elmi elmi elmi elmi elmi distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo
+=============================================================
+SOURCE - They set out early in the forenoon, some on horseback, the rest in carriages; I witnessed both the departure and the return.
+TARGET - La comitiva partì presto; chi era a cavallo, chi in carrozza. Vidi la partenza e il ritorno.
+PREDICTED - finanziera finanziera finanziera finanziera finanziera cheti cheti cheti limonata limonata cheti limonata scricchiolìo scricchiolìo scricchiolìo finanziera limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo limonata limonata limonata limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo limonata limonata limonata limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata distrigarlo appigliato Avremmo Avremmo appigliato appigliato appigliato appigliato appigliato appigliato Avremmo Avremmo Avremmo governata appigliato Avremmo Avremmo Avremmo Avremmo limonata cheti cheti cheti cheti Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo distrigarlo governata distrigarlo governata Avremmo Avremmo Avremmo Avremmo Avremmo appigliato appigliato Avremmo Avremmo Avremmo ordinerò appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo pensarlo appigliato appigliato rincrescimento appigliato rincrescimento appigliato Avremmo appigliato appigliato appigliato Avremmo pensarlo Avremmo appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato Avremmo cheti cheti cheti cheti cheti cheti cheti appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato Avremmo finanziera Avremmo finanziera colpire appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato colpire colpire colpire appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato ordinerò cheti appigliato cheti cheti cheti cheti ordinerò cheti ordinerò cheti cheti appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato cheti cheti appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato colpire colpire colpire colpire appigliato colpire colpire colpire colpire colpire colpire colpire colpire colpire colpire palude colpire colpire colpire colpire colpire colpire colpire colpire colpire colpire colpire colpire colpire colpire appigliato colpire appigliato appigliato appigliato appigliato appigliato colpire colpire appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato colpire
+=============================================================
+SOURCE - Following the Commander, champagne glass in hand, Serpukhovskoy came down smiling.
+TARGET - Dietro il comandante uscì anche Serpuchovskoj con una coppa in mano.
+PREDICTED - cantasse cantasse sussulto sussulto sussulto limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo limonata Avremmo limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo limonata Avremmo limonata limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato appigliato Avremmo appigliato Avremmo appigliato appigliato appigliato appigliato appigliato Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato appigliato appigliato appigliato Avremmo appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato Avremmo Avremmo Avremmo incarico appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato dirti dirti incarico incarico incarico incarico incarico appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato Avremmo incarico appigliato appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo incarico incarico incarico incarico incarico incarico incarico incarico incarico Avremmo Avremmo Avremmo incarico incarico Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico appigliato Avremmo incarico incarico incarico incarico incarico appigliato Avremmo
+=============================================================
+SOURCE - Then we all got mad.
+TARGET - Allora c’infuriammo tutti.
+PREDICTED - limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata incarico incarico incarico incarico incarico limonata limonata incarico incarico incarico incarico limonata limonata limonata Risi Risi Risi Risi limonata incarico incarico incarico limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata incarico incarico incarico incarico incarico incarico incarico assoluto assoluto assoluto assoluto assoluto limonata limonata limonata limonata limonata limonata limonata incarico incarico Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi incarico incarico incarico incarico incarico incarico incarico incarico incarico filosofi filosofi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi limonata limonata filosofi filosofi filosofi filosofi filosofi Risi Risi Risi Risi Risi Risi Risi Risi Risi assoluto Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico Risi Risi Risi Risi incarico incarico incarico incarico incarico incarico incarico incarico incarico Risi Risi Risi Risi Risi Risi assoluto incarico incarico incarico Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi Risi incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico scelleratezze Risi Risi Risi incarico incarico incarico incarico scelleratezze scelleratezze incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico incarico
+=============================================================
+SOURCE - She had a headache, was sick, and could not leave her bed all the morning.
+TARGET - Le venne mal di capo, vomito e per tutta la mattina non poté alzarsi dal letto.
+PREDICTED - finanziera cantasse cantasse cantasse finanziera limonata limonata limonata limonata limonata limonata limonata limonata finanziera limonata finanziera limonata finanziera limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata cantasse cantasse cantasse cantasse cantasse limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata finanziera limonata finanziera limonata finanziera limonata finanziera limonata finanziera appigliato limonata finanziera limonata limonata finanziera limonata finanziera limonata finanziera limonata limonata limonata cheti cantasse cantasse cantasse cantasse finanziera limonata finanziera limonata finanziera limonata finanziera limonata finanziera finanziera rincrescimento rincrescimento cantasse cantasse appigliato appigliato finanziera limonata finanziera limonata limonata finanziera limonata finanziera rincrescimento rincrescimento rincrescimento rincrescimento finanziera finanziera finanziera rincrescimento rincrescimento rincrescimento rincrescimento rincrescimento finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera appigliato finanziera appigliato finanziera appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato finanziera finanziera finanziera finanziera finanziera appigliato finanziera finanziera finanziera finanziera finanziera finanziera appigliato finanziera finanziera finanziera finanziera cheti cheti finanziera finanziera finanziera finanziera appigliato finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato finanziera appigliato finanziera finanziera finanziera finanziera finanziera finanziera appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato finanziera appigliato finanziera appigliato finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera appigliato finanziera appigliato finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera appigliato finanziera appigliato appigliato finanziera limonata finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera cheti cheti finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera finanziera cheti cheti cheti finanziera finanziera finanziera finanziera finanziera prevalse finanziera finanziera finanziera finanziera finanziera finanziera finanziera appigliato finanziera prevalse finanziera appigliato finanziera appigliato finanziera appigliato appigliato appigliato appigliato finanziera finanziera
+=============================================================
+SOURCE - 'I don't much care where--' said Alice.
+TARGET - — Poco m'importa dove... — disse Alice.
+PREDICTED - limonata finanziera limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo limonata limonata limonata limonata limonata limonata limonata Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata limonata Avremmo Avremmo Avremmo Avremmo Avremmo limonata limonata Avremmo limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo limonata limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo limonata Avremmo limonata limonata Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato appigliato appigliato appigliato Avremmo appigliato Avremmo appigliato appigliato appigliato appigliato Avremmo appigliato Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato Avremmo appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato Avremmo Avremmo Avremmo Avremmo appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato limonata dirti appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato limonata appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato appigliato Avremmo limonata limonata appigliato appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo incarico incarico incarico incarico incarico incarico appigliato Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo Avremmo limonata Avremmo incarico pancone pancone appigliato appigliato appigliato Avremmo appigliato appigliato appigliato appigliato Avremmo appigliato Avremmo incarico appigliato appigliato Avremmo
+=============================================================
+SOURCE - _May_ 10–14.—Went every day to the wreck; and got a great many pieces of timber, and boards, or plank, and two or three hundredweight of iron.
+TARGET - Dal 10 al 14. Ognuno di questi giorni fu impiegato nella stessa natura di lavoro, e mi fruttò molti pezzi di legname, assi o tavole, e due o tre quintali di ferro.
+PREDICTED - distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata limonata limonata limonata limonata limonata limonata limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo limonata limonata limonata limonata limonata limonata limonata vergognosa limonata limonata limonata limonata limonata limonata limonata distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo vergognosa pensarlo vergognosa pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo pensarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo appigliato pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo cheti cheti cheti stupì pensarlo ordinerò cheti distrigarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo appigliato pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo pensarlo distrigarlo distrigarlo distrigarlo distrigarlo distrigarlo appigliato pensarlo
+=============================================================
+SOURCE - If so there must be more of her."
+TARGET - Allora è qui tutta intera.
+PREDICTED - Il sua sua .
+=============================================================
+SOURCE - Then we all got mad.
+TARGET - Allora c’infuriammo tutti.
+PREDICTED - Il sua sua .
+=============================================================
+SOURCE - Following the Commander, champagne glass in hand, Serpukhovskoy came down smiling.
+TARGET - Dietro il comandante uscì anche Serpuchovskoj con una coppa in mano.
+PREDICTED - — Non è un ’ , ma non è un ’ .
+=============================================================
+SOURCE - They set out early in the forenoon, some on horseback, the rest in carriages; I witnessed both the departure and the return.
+TARGET - La comitiva partì presto; chi era a cavallo, chi in carrozza. Vidi la partenza e il ritorno.
+PREDICTED - Il sua sua , e la sua sua sua sua suo sua suo suo suo suo suo suo suo suo suo .
+=============================================================
+SOURCE - 'I don't much care where--' said Alice.
+TARGET - — Poco m'importa dove... — disse Alice.
+PREDICTED - — Ma non è un ’ è un ’ è .
+=============================================================
+SOURCE - _May_ 10–14.—Went every day to the wreck; and got a great many pieces of timber, and boards, or plank, and two or three hundredweight of iron.
+TARGET - Dal 10 al 14. Ognuno di questi giorni fu impiegato nella stessa natura di lavoro, e mi fruttò molti pezzi di legname, assi o tavole, e due o tre quintali di ferro.
+PREDICTED - Il mia , e la sua sua sua sua sua suo sua suo sua , e la sua , e la sua .
+=============================================================
+SOURCE - That is, her name is Karenina,' said Anna, screwing up her eyes till only the meeting lashes could be seen. 'However, we will talk about all that later,' said she, suddenly brightening.
+TARGET - Cioè è una Karenina — disse Anna, socchiudendo gli occhi così che le si vedevano soltanto le ciglia unite. — Del resto — disse, rischiarandosi d’un tratto in viso — di questo diremo tutto dopo.
+PREDICTED - — Non è un ’ è un ’ , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse , — disse . — Non è un ’ .
+=============================================================
+SOURCE - She had a headache, was sick, and could not leave her bed all the morning.
+TARGET - Le venne mal di capo, vomito e per tutta la mattina non poté alzarsi dal letto.
+PREDICTED - Il sua sua , e la sua sua sua suo suo suo suo suo suo suo suo .
+=============================================================
+SOURCE - That is a misfortune, but that too is an accomplished fact.
+TARGET - È una sventura, ma anche questo è un fatto compiuto.
+PREDICTED - Ma non è un ’ ic , ma non è un ’ ic .
+=============================================================
+SOURCE - I know it is ignoble: a mere fever of the flesh: not, I declare, the convulsion of the soul. _That_ is just as fixed as a rock, firm set in the depths of a restless sea.
+TARGET - "No, la mia anima è forte come scoglio sorgente dalle profondità del mare.
+PREDICTED - Ma non non mi , ma non mi , ma non mi , e non mi , e non mi , e , e , e , e .
+=============================================================
+SOURCE - Dear mama, there, as soon as she got an inkling of the business, found out that it was of an immoral tendency. Did you not, my lady-mother?"
+TARGET - Appena mamma lo seppe, disse che era immorale; non è vero, mamma?
+PREDICTED - Ma non non è un ’ altra cosa , ma non non è un ’ altra cosa , ma non non non non è un ’ altra cosa , ma non non non non è un ’ altra cosa .
+=============================================================
+SOURCE - CHAPTER XIV
+TARGET - XIV
+PREDICTED - E
+=============================================================
+SOURCE - I want it so much,' she went on. 'What do you think about it?' and she looked into his face.
+TARGET - Io lo desidero molto — ella proseguì: — Cosa ne pensi? — E lo guardò in viso.
+PREDICTED - E non è un ’ ic ? — disse , — disse Levin , — disse , — disse , — disse , — disse , — disse , — disse .
+=============================================================
+SOURCE - "You have as good as informed me, sir, that you are going shortly to be married?"
+TARGET - — Mi avete voi stesso informata che fra poco avreste preso moglie.
+PREDICTED - — Ma non è un ’ altra cosa , — disse , — disse , — disse , — .
+=============================================================
+SOURCE - In a word, as the sea was returned to its smoothness of surface and settled calmness by the abatement of that storm, so the hurry of my thoughts being over, my fears and apprehensions of being swallowed up by the sea being forgotten, and the current of my former desires returned, I entirely forgot the vows and promises that I made in my distress.
+TARGET - In una parola, appena il mare fu tornato alla sua uniformità di superficie ed alla sua prima placidezza col cessare della procella, cessò ad un tempo lo scompiglio de’ miei pensieri; le mie paure di rimanere inghiottito dalle onde furono dimenticate, e, trasportato dalla foga degli abituali miei desideri, mi scordai affatto delle promesse e dei voti fatti nel momento dell’angoscia.
+PREDICTED - Il mio mio mio mio , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .
+=============================================================
+SOURCE - 'It is both a virtue and a fault in you.
+TARGET - Questo è il tuo pregio e il tuo difetto.
+PREDICTED - — Ma non è un ’ altra cosa , — disse il suo suo .
+=============================================================
+SOURCE - I now feel how little educated I am!
+TARGET - Lo sento, adesso, come sono poco istruito.
+PREDICTED - Non sono più di me , e .
+=============================================================
+SOURCE - The Thames would not be the fairyland it is without its flower-decked locks.
+TARGET - Il Tamigi non sarebbe un paese incantato, se le sue chiuse non fossero disseminate di fiori.
+PREDICTED - Il signor Rochester non era un po ’ di un po ’ di un po ’ di casa .
+=============================================================
+SOURCE - "And when friends are on the eve of separation, they like to spend the little time that remains to them close to each other.
+TARGET - — E quando gli amici stanno per separarsi spendono insieme il poco tempo che rimane loro.
+PREDICTED - — Ma , , , e a un ’ altra parte di , e a .
+=============================================================
+SOURCE - 'How can one be indifferent?' said Lydia Ivanovna.
+TARGET - — Come si può essere indifferenti! — disse Lidija Ivanovna.
+PREDICTED - — Ma , che cosa ? — disse Levin .
+=============================================================
+SOURCE - He wished to weep over his dear, dying brother, but had to listen and keep up a conversation about how Nicholas was going to live.
+TARGET - Avrebbe voluto piangere sul suo caro fratello morente, e doveva ascoltare e parlare su come avrebbe vissuto.
+PREDICTED - Il signor Rochester , e la sua moglie , e la sua moglie , e la sua moglie , e la sua moglie , e la sua moglie non si era stato di lei .
+=============================================================
+SOURCE - 'If you didn't sign it,' said the King, 'that only makes the matter worse.
+TARGET - — Il non aver firmato, — rispose il Re, non fa che aggravare il tuo delitto.
+PREDICTED - — Non è un po ’ — disse il signor Rochester . — Non è un po ’ di casa .
+=============================================================
+SOURCE - Malthus was a well-known railway magnate. Oblonsky spoke of the marshes which Malthus had leased in the Province of Tver, of how they were preserved, of the vehicles – dog-carts – in which the sportsmen were driven thither, and of the marquee that was set up for lunch beside the marsh.
+TARGET - Stepan Arkad’ic descriveva quali paludi avesse comprato questo Malthus, nel governatorato di Tver’, e come fossero mantenute, e quali equipaggi avessero trasportato i cacciatori, quali mute di cani e quale tenda con colazione fosse stata piantata accanto alla palude.
+PREDICTED - Il suo momento , la sua mano , e la sua sua moglie , e la sua sua sua sua , e la sua sua sua , e la sua sua sua sua , e la sua sua sua sua , e la sua sua sua sua , e la sua sua sua sua , e la sua sua sua sua sua sua sua sua sua , e .
+=============================================================
+SOURCE - When I had passed the vale where my bower stood, as above, I came within view of the sea to the west, and it being a very clear day, I fairly descried land—whether an island or a continent I could not tell; but it lay very high, extending from the W. to the W.S.W. at a very great distance; by my guess it could not be less than fifteen or twenty leagues off.
+TARGET - Passata la valle ove stava il mio frascato, arrivai a vista del mare a ponente, e essendo una giornata oltre ogni dire serena, scopersi perfettamente una terra: se isola o continente non potei conoscerlo, ma altissima ed estesa in un’assai grande lontananza da ponente al west-sud-west (ponente-libeccio), non meno di quindici a venti leghe secondo le mie congetture.
+PREDICTED - a un ’ altra parte di un ’ altra , e a un ’ altra parte di , che non mi a , e a a , e a a , e a a , e a , che non mi a a a , e a a , e a a , e a .
+=============================================================
+SOURCE - No; your accomplished angler would scorn to tell a lie, that way.
+TARGET - No; il pescatore compito abborre dal dire una bugia, a questo modo.
+PREDICTED - No , , , a .
+=============================================================
+SOURCE - 'Haven't you walked about enough in this heat?' said Koznyshev.
+TARGET - — Ma finiscila di andare su e giù con questo caldo — gli diceva Sergej Ivanovic.
+PREDICTED - — Non c ’ è un ’ altra volta , — disse Levin .
+=============================================================
+SOURCE - Then we looked for the knife to open the tin with. We turned out everything in the hamper.
+TARGET - Allora cercammo il coltello con cui aprire la scatola, mettendo sossopra tutto il paniere.
+PREDICTED - E il mio giorno , il mio viso di un ’ altra , la porta di .
+=============================================================
+SOURCE - And it was likewise his fault that she was for ever parted from her son.
+TARGET - E, di nuovo, era anche lui colpevole ch’ella fosse divisa per sempre dal figlio.
+PREDICTED - E la sua vita era in cui era stata in casa , e , in cui si era stata in casa .
+=============================================================
+SOURCE - Have I not been delivered, and wonderfully too, from sickness—from the most distressed condition that could be, and that was so frightful to me? and what notice had I taken of it?
+TARGET - «Tu ti affisi tanto, io diceva a me stesso, su la tua liberazione dalla principale delle disgrazie, e non fai caso dell’altra ottenuta poc’anzi.» Allora principiai a farmi una interrogazione di natura diversa: «Non sei tu stato liberato, ed anche in guisa prodigiosa, dalla tua malattia, dalla più disastrosa condizione in cui ti potessi trovare e che ti dava tanto spavento? hai tu mostrato nemmeno d’accorgertene?
+PREDICTED - Non mi , e non mi , e a me , e non mi a , e non mi a me , e non posso dire che cosa ne ?
+=============================================================
+SOURCE - But say what they might, he knew that now all was lost.
+TARGET - Ma, qualunque cosa dicessero, egli sapeva che ormai tutto era perduto.
+PREDICTED - Ma , come si era stato in modo di lui , ma era stato stato a lui .
+=============================================================
+SOURCE - 'I have told you what happened.'
+TARGET - — Vi ho detto quello che è accaduto.
+PREDICTED - — Io non posso dire .
+=============================================================
+SOURCE - He did not cough once for a whole hour, smiled, kissed Kitty's hand, thanking her with tears in his eyes, and said he felt well, had no pain, but had an appetite and felt stronger.
+TARGET - Per un’ora intera non tossì neppure una volta, sorrise, baciò la mano a Kitty, ringraziandola fra le lacrime, e disse di star bene, che non aveva dolore in nessun posto e che aveva appetito e si sentiva in forze.
+PREDICTED - Non si era stata in casa , e , con la sua moglie , con la sua moglie , e , con la sua moglie , e , non era stata in casa , ma non era stata in lei , e non aveva mai mai mai mai .
+=============================================================
+SOURCE - In fact, at first glance, I thought it was a cod.
+TARGET - Veramente, alla prima occhiata mi parve che fosse un merluzzo.
+PREDICTED - In quel momento , mi , mi disse che era stato un momento .
+=============================================================
+SOURCE - I don't think either summer or harvest, or winter moon, will ever shine on their revels more."
+TARGET - Ora né il sole d'estate, né la luna rischiareranno più i loro baccanali.
+PREDICTED - Non mi più di , e ' , e le di .
+=============================================================
+SOURCE - Anna felt by his look that he liked looking at her, but he avoided conversation with her.
+TARGET - Anna sentiva dal suo sguardo ch’egli si compiaceva di guardarla, ma che sfuggiva le conversazioni con lei.
+PREDICTED - Anna aveva detto che la sua moglie , ma che aveva detto , egli stesso , ma , senza aver detto la sua moglie .
+=============================================================
+SOURCE - 'She is not exactly dull, but that indefinite, unsettled position...' Levin overheard, and was hastening away when Oblonsky called him.
+TARGET - — Non è che si annoi, ma questa situazione indefinita, incerta — sentì Levin e voleva allontanarsi in fretta; ma Stepan Arkad’ic lo chiamò.
+PREDICTED - — Non è nulla , ma , ma , come un sorriso , con lui — disse Levin , sorridendo .
+=============================================================
+SOURCE - There was something contemptible, effeminate, Capuan, as he called it, in his present life.
+TARGET - Qualcosa di vergognoso, di molle, di capuano, com’egli lo definiva, era nella sua vita di ora.
+PREDICTED - Era un uomo , come un ’ altra , e , come se ne la sua vita .
+=============================================================
+SOURCE - The gallery was crowded with smartly-dressed women who leaned over the balustrade and tried not to miss a single word of what was being said below.
+TARGET - La tribuna era piena di signore eleganti, che si curvavano sulla balaustrata e cercavano di non perdere neanche una parola di quello che veniva detto giù.
+PREDICTED - Il signor Rochester era un po ’ di , e un sorriso di , e non si era stato stato mai mai mai mai mai mai mai mai .
+=============================================================
+SOURCE - With my boat I carried away everything that I had left there belonging to her, though not necessary for the bare going thither—viz. a mast and sail which I had made for her, and a thing like an anchor, but which, indeed, could not be called either anchor or grapnel; however, it was the best I could make of its kind: all these I removed, that there might not be the least shadow for discovery, or appearance of any boat, or of any human habitation upon the island.
+TARGET - Entro la mia navicella io trasportai quante cose spettanti ad essa vi aveva lasciate, ancorchè non necessarie pel semplice motivo di condurla fin lì: di tal natura erano un albero ed una vela ch’io avea costrutti per essa; un non so che simile ad un’âncora, ma che, per dir vero, non poteva chiamare nè grappino nè âncora, benchè fosse il meglio ch’io sapessi fare in tal genere; e tutto ciò io allontanai di dov’era, affinchè non rimanesse il più piccolo indizio ad una scoperta, o qualsivoglia apparenza di piroga o di abitazione umana nell’isola.
+PREDICTED - In quel giorno , io mi di , che non mi più più di , e che , in cui mi , , e a me , e di , perchè , di , e di , di , e a me , perchè non più più di .
+=============================================================
+SOURCE - Though that quietness, as if she were holding her breath, and especially the peculiar tenderness and animation with which, returning from the other side of the partition, she had said: 'It's nothing!' seemed to him suspicious, yet he was so sleepy that he fell asleep at once.
+TARGET - Sebbene lo tenessero in ansia il silenzio del respiro di lei, quasi trattenuto e, più di tutto, l’espressione di particolare tenerezza ed eccitazione con cui, uscendo dal tramezzo, ella gli aveva detto: “nulla”, egli aveva tanto sonno che si riaddormentò immediatamente.
+PREDICTED - Quando , in quel momento , in cui egli si sentiva in fretta , e , con le sue parole , le sue parole , le sue parole , le sue parole , le sue parole , le sue parole , le sue parole , egli disse : “ Non è nulla , ma non c ’ è nulla di parlare .
+=============================================================
+SOURCE - Well, I must go in now; and you too: it darkens."
+TARGET - Ma bisogna che torni a casa, e voi anche, perché è notte.
+PREDICTED - E io ho detto che voi sono felice .
+=============================================================
+SOURCE - 'Yours are Petersburg views, madam.'
+TARGET - — È il punto di vista pietroburghese, signora.
+PREDICTED - — È la cosa , la questione di Anna .
+=============================================================
+SOURCE - How much have you in the world, Jane?" he asked, smiling.
+TARGET - Quanto denaro possedete in tutto, Jane? — mi domandò sorridendo.
+PREDICTED - Come siete la vita , Jane ? — disse , sorridendo .
+=============================================================
+SOURCE - Whether influenced by the club or by the wine he had drunk, Levin chatted with Vronsky about the best breeds of cattle, and was very pleased to find that he had not the least animosity toward the man.
+TARGET - Fosse sotto l’influsso del club, o del vino bevuto, Levin si mise a parlare con Vronskij della razza migliore di bestiame e fu molto contento di non sentir nessuna avversione per quell’uomo.
+PREDICTED - Come la , e la porta si era già già già , Levin si era stata in modo di nuovo a Mosca , e non aveva mai mai mai mai mai mai mai .
+=============================================================
+SOURCE - A child cannot quarrel with its elders, as I had done; cannot give its furious feelings uncontrolled play, as I had given mine, without experiencing afterwards the pang of remorse and the chill of reaction.
+TARGET - Una bimba non può insultare i suoi superiori, come avevo fatto io, non può dare sfogo alla collera, senza provar subito la puntura del rimorso e il gelo della reazione.
+PREDICTED - " Non è un ' altra donna , non ho mai mai mai mai mai mai mai mai mai mai mai mai , né , né la vostra vita , non mi la vostra vita .
+=============================================================
+SOURCE - Little as there was of affectation and conventionality in Kitty's general character, yet Levin was astonished at what was revealed to him now that every veil had fallen and the very kernel of her soul shone through her eyes.
+TARGET - Per quanto poca fosse la finzione e la convenzionalità nel carattere di Kitty, Levin tuttavia fu sorpreso da quello che ora gli si metteva a nudo, ora che, tolti a un tratto tutti i veli, l’essenza stessa dell’anima di lei le splendeva negli occhi.
+PREDICTED - In questo modo , in questo modo di , Kitty , la sua vita , era così felice , ma che Levin era così come se stesso , in quel momento , in quel momento , in quel momento , aveva fatto il suo viso , e la sua vita .
+=============================================================
+SOURCE - But these were not the two cats which I brought on shore at first, for they were both of them dead, and had been interred near my habitation by my own hand; but one of them having multiplied by I know not what kind of creature, these were two which I had preserved tame; whereas the rest ran wild in the woods, and became indeed troublesome to me at last, for they would often come into my house, and plunder me too, till at last I was obliged to shoot them, and did kill a great many; at length they left me.
+TARGET - Ma queste non erano le due gatte ch’io m’avea portate da principio alla spiaggia; chè quelle già morte furono sotterrate dalla mia mano medesima in vicinanza della mia abitazione. Una di esse avendo figliato, non so per opera di quale specie di bestia, i presenti gatti erano due creature di quella discendenza ch’io avea conservale domestiche; il restante andato a menar vita vagante e selvaggia pei boschi, era anzi arrivato a diventarmi molesto; perchè quella genìa avea preso l’uso di entrare spesse volte in mia casa e di saccheggiarmi, sinchè finalmente costrettomi a salutarla col mio moschetto e ad ammazzarle una gran parte de’ suoi, mi lasciò quieto una volta.
+PREDICTED - Ma non ostante le mie cose non erano in una parte di terra , e per me , e per me ne ’ altri due , e la mia mia vita , non mi in una parte di me , ma non mi più di me , nè di , nè di la mia vita , e di , non la mia mia vita , nè mi di , e il mio moschetto , e di la mia vita .
+=============================================================
+SOURCE - To this house I came just ere dark on an evening marked by the characteristics of sad sky, cold gale, and continued small penetrating rain.
+TARGET - Giunsi un poco prima di sera; il cielo era triste, il vento freddo ed ero bagnata da una pioggia continua.
+PREDICTED - " la sera , mi accorsi che il signor Rochester era un ' altra , e mi .
+=============================================================
+SOURCE - "A good deal."
+TARGET - — Sì, molto.
+PREDICTED - — .
+=============================================================
+SOURCE - To you! How can she stay in the town you are in?
+TARGET - Come soggiornare nella stessa città in cui siete voi?
+PREDICTED - Tu , come avete fatto , è la loro città ?
+=============================================================
+SOURCE - About Moscow, and about the nape of your neck.'
+TARGET - Pensavo a Mosca, alla tua nuca.
+PREDICTED - E a Mosca , e il vostro .
+=============================================================
+SOURCE - How they got back George never knew, but it took them just forty minutes.
+TARGET - Giorgio non seppe mai come essi tornassero a riva; ma occorsero quaranta minuti precisi.
+PREDICTED - Come ci si , Giorgio , ma , dopo aver fatto un po ’ di nuovo , si mise a .
+=============================================================
+SOURCE - Briggs, Wood, Mason, I invite you all to come up to the house and visit Mrs. Poole's patient, and _my wife_!
+TARGET - "Briggs, Wood, Mason, v'invito tutti a venire a casa e a visitare la malata, la signora Poole, mia moglie.
+PREDICTED - " , signorina Eyre , che vi ho fatto bene a la signora Reed e la signora Reed , la vostra signora Reed !
+=============================================================
+SOURCE - I restrain myself, wait, invent occupations for myself, – the English family, writing, reading, but all that is only deception, it is all a kind of morphia.
+TARGET - Io non posso fare nulla, non posso cominciar nulla, mutar nulla; mi trattengo, aspetto, mi invento dei passatempi, con la famiglia dell’inglese, con lo scrivere, e il leggere, ma tutto questo è soltanto un inganno, tutto questo è lo stesso della morfina.
+PREDICTED - Io non so , e io , per me , per me , per me , con la sua vita , la sua vita , la sua vita , la , è un uomo che è stato .
+=============================================================
+SOURCE - I did not care to go out of sight of the boat, fearing the coming of canoes with savages down the river; but the boy seeing a low place about a mile up the country, rambled to it, and by-and-by I saw him come running towards me.
+TARGET - Non mi piacea di perdere di vista la scialuppa, per paura che alcuni canotti di selvaggi scendessero lungo il fiume; ma il ragazzo scorgendo una valletta lontana circa un miglio dal luogo ove eravamo, si trasse fin là, nè andò guari che il vidi tornare a me correndo come il vento. Pensai fosse inseguìto da qualche uomo, o spaventato da qualche fiera, onde gli corsi incontro per aiutarlo; ma quando gli fui più vicino, vidi alcun che pendergli dalle spalle.
+PREDICTED - Non mi a casa , non mi diedi a bordo di mare , perchè il capitano di , ma il capitano di , e il fiume si in un ’ altra parte del fiume , e mi fece un altro che mi un ’ altra parte , e mi a .
+=============================================================
+SOURCE - 'Again! Again the demon!' said Vronsky, taking the hand which she had put on the table, and kissing it.
+TARGET - — Daccapo, daccapo “il diavolo” — disse Vronskij, prendendole la mano ch’ella aveva poggiato sulla tavola e baciandola.
+PREDICTED - — ! — disse Vronskij , guardando Vronskij , che aveva fatto il cappello e il cappello , si mise a guardare il cappello .
+=============================================================
+SOURCE - I flew thither and back, bringing the desired vessels.
+TARGET - Uscii e riportai quei due oggetti.
+PREDICTED - i due piedi , le quali erano .
+=============================================================
+SOURCE - 'I am laughing as one laughs on seeing a very striking likeness!
+TARGET - — Rido — disse — come si ride quando si vede un ritratto molto somigliante.
+PREDICTED - — Sono molto contenta che in un momento , per un ’ altra volta .
+=============================================================
+SOURCE - Every one used to say, "He is so clever, so clever." I alone said that he was stupid.
+TARGET - Tutti dicevano ch’era intelligente, io sola dicevo ch’era scemo.
+PREDICTED - Tutti gli uomini , — disse , — è così felice che non ho detto che cosa sia felice .
+=============================================================
+SOURCE - Of the Petersburg people the most intimate and most likely were the doctor, and Michael Vasilich Slyudin, his private secretary.
+TARGET - Delle persone poi che erano a Pietroburgo, le più vicine e le più adatte erano il direttore della cancelleria e il medico.
+PREDICTED - E la conversazione , per la sua vita , erano stati e , la contessa Lidija Ivanovna , e il vecchio .
+=============================================================
+SOURCE - Oh, take these furs off me!'
+TARGET - Ma toglietemi queste pellicce!
+PREDICTED - Ah , che sono tutti i vostri !
+=============================================================
+SOURCE - 'Yes, ma'am!
+TARGET - — Sissignora.
+PREDICTED - — Sì , signora .
+=============================================================
+SOURCE - 'Is it possible that we shall be like husband and wife, alone, a family, you and I?' she said, looking closely into his eyes.
+TARGET - — Ma è possibile che noi siamo come marito e moglie, soli, con una famiglia nostra, io e tu? — disse lei, guardandolo da vicino negli occhi.
+PREDICTED - — È vero che tu sia vero , e come voi , come voi , e voi , come voi , voi , e voi , e io , dopo aver fatto un ’ altra cosa ?
+=============================================================
+SOURCE - At one time, while reading Schopenhauer, he replaced the word will by the word love, and this new philosophy comforted him for a day or two, as long as he did not stand aside from it; but it, too, collapsed when he viewed it in relation to real life, and it turned out to be a muslin garment without warmth.
+TARGET - Un certo tempo, leggendo Schopenhauer, sostituì al posto della volontà l’amore; e questa nuova filosofia per un paio di giorni, finché vi rimase dentro, lo consolò; ma crollò proprio alla stessa maniera quando la osservò dalla vita, e si rivelò un vestito di mussola che non teneva caldo.
+PREDICTED - In quel momento , dopo aver preso la parola , si mise a parlare alla parola , e la parola , la quale egli non aveva avuto una volta , e poi , dopo aver preso a letto , si mise a leggere , si mise a leggere , , e poi , , un po ’ di nuovo al mondo , e poi , senza , senza , senza .
+=============================================================
+SOURCE - 'Oh, yes, you saved that Levin from unpleasantness.'
+TARGET - — Come! Avete salvato quel Levin da un incidente increscioso.
+PREDICTED - — Ah , sì , che tu avete fatto che Levin non vi .
+=============================================================
+SOURCE - 'Now look at him,' said Kitty, turning him so that Levin could see him.
+TARGET - — Guarda, adesso — disse Kitty, voltando verso di lui il bambino perché egli potesse vederlo.
+PREDICTED - — E , con lui — disse Kitty , arrossendo di nuovo , Levin che non poteva capire .
+=============================================================
+SOURCE - Hitherto I have recorded in detail the events of my insignificant existence: to the first ten years of my life I have given almost as many chapters.
+TARGET - Fin qui ho narrato con molti particolari gli eventi della mia esistenza poco varia.
+PREDICTED - con la mia storia di di , che mi sono di vita di quella vita di cui ho fatto in una vita di vita .
+=============================================================
+SOURCE - "Ah! now you are coming to reality," I said, as I obeyed her. "I shall begin to put some faith in you presently."
+TARGET - — Vi avvicinate alla verità, — risposi obbedendo. — Fra poco dovrò credervi.
+PREDICTED - — Ah , ora vi siete detto che siete stata la famiglia , — dissi , — e io vi di nuovo in una parte .
+=============================================================
+SOURCE - On the pavement at the corner of the street, in a short fashionable overcoat and a small fashionable hat, his teeth gleaming between his smiling red lips, young, gay, and beaming, stood Oblonsky, determinedly and insistently shouting and demanding that Karenin should stop.
+TARGET - All’angolo del marciapiedi, in cappotto corto alla moda, con un cappello a falde strette messo di lato e un sorriso splendente fra le labbra rosse e i denti bianchi, allegro, giovane, raggiante, stava Stepan Arkad’ic che, energicamente e imperiosamente gridava e pretendeva che egli si fermasse.
+PREDICTED - Il cameriere di pranzo , in un angolo , con un cappello di velluto , un cappello di velluto e di velluto , di velluto , di velluto , di velluto , di velluto , di capelli neri e di capelli neri e di Stepan Arkad ’ ic si mise a parlare con Stepan Arkad ’ ic .
+=============================================================
+SOURCE - Levin arrived at his sister's village at noon and left his horse with a friendly old peasant, the husband of his brother's nurse. Wishing to hear particulars of the hay harvest from this old man, Levin went to speak to him in his apiary.
+TARGET - Giunto al villaggio all’ora di pranzo e lasciato il cavallo da un suo vecchio amico, marito della balia del fratello, Levin, desideroso di conoscere egli stesso i particolari della falciatura, si recò dal vecchio addetto alle api che si trovava nell’arniaio.
+PREDICTED - Levin , dopo aver fatto il giorno in casa , si era messo a letto e , con la vettura , con la moglie , con la moglie di Levin , si con la moglie , si a Levin , e Levin si mise a guardare Levin con la propria posizione .
+=============================================================
+SOURCE - While I was making this march, my former thoughts returning, I began to abate my resolution: I do not mean that I entertained any fear of their number, for as they were naked, unarmed wretches, it is certain I was superior to them—nay, though I had been alone.
+TARGET - Ma lungo il cammino, ridestatisi nella mia mente gli antichi pensieri, cominciò ad affievolirsi in me la presa risoluzione. Nè credeste già che mi sgomentassi del numero; essendo ignudi e disarmati quei miserabili, certamente il vantaggio contr’essi era dalla parte mia, e sarebbe stato quando anche mi fossi trovato solo.
+PREDICTED - a questo tempo , io non aveva mai avuto la mia mente , mi diedi a la mia mente ; ma non mi diedi a la mia vita , come se non avessi potuto , nè di essere stato , come se avessi potuto , o di , come io non mi fosse stato , e non mi fosse stato , ma che io mi fosse stato , come io mi fosse stato , come io mi fosse stato , come se non mi fosse stato , come io mi fosse stato , come se non mi fosse stato , e non mi fosse stato , come io mi fosse stato , come se non mi fosse stato , come se non mi fosse stato .
+=============================================================
+SOURCE - But after making several reflections upon the circumstances of my life, and how little way this would go towards settling me in the world, I resolved to go to Lisbon, and see if I might not come at some information of the state of my plantation in the Brazils, and of what was become of my partner, who, I had reason to suppose, had some years past given me over for dead.
+TARGET - A malgrado di questo inaspettato soccorso, le più ponderate considerazioni su le condizioni della mia vita mi dimostravano ch’io avea tuttavia ben pochi modi per fare una discreta figura nella società. Risolvetti pertanto di trasferirmi a Lisbona per veder di raccogliere qualche contezza su la mia piantagione del Brasile, e di sapere che cosa fosse avvenuto di quel mio socio, il quale doveva, secondo me, darmi per morto da ben molti anni.
+PREDICTED - Ma , dopo aver fatto fatto tre giorni , mi si la vita di questa vita , e come mi si fosse trovato in questo modo di fare il mondo , e se non mi fosse stato stato il mondo di Dio , e se non fosse stato stato il mondo , e se non fosse stato la mia vita , e che mi fosse stato la mia vita di Dio fosse stato in questo luogo , che mi fosse stato la mia vita di Dio , che mi fosse stato la mia vita di .
+=============================================================
+SOURCE - Should he leave Pokrovsk, buy land, join a peasant commune, marry a peasant girl?'
+TARGET - Lasciare Pokrovskoe? Comprare della terra?
+PREDICTED - a , a un po ’ di , un vecchio principe ?
+=============================================================
+SOURCE - At last I looked up at the tardy speaker: he was looking eagerly at me.
+TARGET - Il silenzio del signor Rochester si prolungava; alzai gli occhi su di lui e lo fissai avidamente.
+PREDICTED - In quel momento mi guardò il libro , perché egli mi guardò con voce bassa .
+=============================================================
+SOURCE - Is it sincere?
+TARGET - È sincero?
+PREDICTED - È vero ?
+=============================================================
+SOURCE - 'What is it? What?' he asked, pressing her hand against his side with his elbow and trying to read her face.
+TARGET - — Che c’è, che c’è? — chiedeva stringendo il braccio di lei col gomito e cercando di leggerle i pensieri nel viso.
+PREDICTED - — Che c ’ è ? — chiese , guardando con la mano , il braccio e , il viso di lei .
+=============================================================
+SOURCE - I will tell you, moreover,' and leaning his elbow on the window and having started talking, the landowner went on: 'My son has no taste at all for husbandry.
+TARGET - Vi dirò di più — continuò il proprietario, poggiandosi con i gomiti alla finestra e parlando senza interruzione; — mio figlio non ha nessuna passione per l’azienda.
+PREDICTED - Io ti prego , ti prego , ti prego , e , la tazza , si mise a piangere con la tazza di : “ Non è più il figlio di questo mondo ”.
+=============================================================
+SOURCE - This was a distressing falsehood, but it was the sole and last result of centuries and the age-long labour of human thought in that direction.
+TARGET - Era una tormentosa menzogna, ma era l’unico, l’ultimo risultato del secolare lavoro del pensiero umano in quella direzione.
+PREDICTED - Questo era un uomo , ma era il fatto che era stato il più del mondo e il più importante di cui egli aveva provato in quel momento .
+=============================================================
+SOURCE - "I could decide if I were but certain," I answered: "were I but convinced that it is God's will I should marry you, I could vow to marry you here and now--come afterwards what would!"
+TARGET - — Potrei decidermi, se fossi certa, — risposi, — potrei giurare di divenire vostra moglie, se fossi convinta che tale è la volontà di Dio.
+PREDICTED - — Credo che fosse possibile , — risposi , — ma che non vi che il vostro nome di Dio , e che mi a dire che cosa vi .
+=============================================================
+SOURCE - The second picture contained for foreground only the dim peak of a hill, with grass and some leaves slanting as if by a breeze.
+TARGET - Il secondo quadro aveva per primo piano una collina coperta d'erbe e di foglie sollevate dalla brezza; più in dietro il cielo azzurro-cupo del crepuscolo.
+PREDICTED - Il quadro era nel letto e il vento di un miglio , con un vento , e in mezzo a un vento .
+=============================================================
+SOURCE - But the doctor had no idea of laughing.
+TARGET - Ma il dottore non pensava neppure a scherzare.
+PREDICTED - Ma il dottore non aveva mai avuto il diritto di parlare di lui .
+=============================================================
+SOURCE - "So am I," said George's father, valiantly.
+TARGET - — Anch’io — disse il padre di Giorgio, coraggiosamente.
+PREDICTED - — Sì , sono io — disse il padre di Giorgio , sorridendo .
+=============================================================
+SOURCE - 'Oh, I shall be very pleased: pray do!' said Mikhaylov with a feigned smile.
+TARGET - — Ah, sono molto contento, e ve ne prego — disse Michajlov, sorridendo con finzione.
+PREDICTED - — Ah , sono molto contento , sono molto contento — disse Vronskij con un sorriso tremante .
+=============================================================
+SOURCE - CHAPTER XXVI — AN EXHORTATION TO LIBERATE ITALY FROM THE BARBARIANS
+TARGET - Cap.26 Exhortatio ad capessendam Italiam in libertatemque a barbaris vindicandam. [Esortazione a pigliare la Italia e liberarla dalle mani de’ barbari]
+PREDICTED - Cap . Cap . . [ De ’ .
+=============================================================
+SOURCE - Returning, I had to cross before the looking- glass; my fascinated glance involuntarily explored the depth it revealed.
+TARGET - Nel ripassare davanti allo specchio, il mio sguardo affascinato su quello involontariamente si posò esplorandone la profondità.
+PREDICTED - Dopo aver fatto il ritratto che mi aveva guardato con un po ' di silenzio , la sua attenzione .
+=============================================================
+SOURCE - 'But Stephen Arkadyevich never told me anything. You will hardly believe it, but up to now I thought I was the only woman he had ever known.
+TARGET - Tu non ci crederai, ma io fino ad ora credevo di essere la sola donna che egli avesse conosciuto.
+PREDICTED - — Ma non mi odia — disse — non mi , ma io , per quanto io mi pare che lei fosse stato mai stato .
+=============================================================
+SOURCE - Sviyazhsky was one of those people – they invariably amazed Levin – whose judgment was very logical though never original and was kept quite apart from their conduct, while their manner of life was very definite and stable, its tendency being quite independent of their judgment, and even clashing with it.
+TARGET - Svijazskij era una di quelle persone che sempre s’imponevano all’attenzione di Levin: persone, il cui modo di ragionare molto coerente, anche se non originale, fila diritto per conto proprio, e la cui vita precisamente definita e salda nelle direttive, scorre poi da sé, in modo del tutto autonomo e quasi sempre in senso opposto al ragionamento.
+PREDICTED - Svijazskij era uno di quelle persone che si erano , che Levin non si mai più e non solo si mai più , come al mondo , era stato fatto in una vita nuova , e per la vita di loro , e per la sua vita , per la sua , per la sua vita , per la sua , per la sua vita .
+=============================================================
+SOURCE - 'That was said long ago,' interrupted the ambassador's wife, laughingly.
+TARGET - — Già detto da tempo — lo interruppe, ridendo, la moglie dell’ambasciatore.
+PREDICTED - — È molto molto contento — disse la moglie . — La moglie è un po ’ di mano .
+=============================================================
+SOURCE - They appear to be a trying instrument to perform upon.
+TARGET - La cornamusa è uno strumento difficile.
+PREDICTED - Si può essere un ' istitutrice per l ' onore .
+=============================================================
+SOURCE - How good it had all been!
+TARGET - Come tutto era bello!
+PREDICTED - Come !
+=============================================================
+SOURCE - To do this he must not lease the land, but must farm it himself, keep cattle, manure the fields, and plant woods.
+TARGET - E per questo non bisognava dare in fitto la terra, ma coltivarla da sé, tenere il bestiame, concimare i campi, piantare i boschi.
+PREDICTED - Per questo non si poteva non pensare a questo punto , ma si , , , , , , la neve .
+=============================================================
+SOURCE - Vronsky went to the French Theatre, where he really had to see the Commander of his regiment (who never omitted a single performance there) to talk over this reconciliation business which had occupied and amused him for the last three days.
+TARGET - Vronskij andò al Teatro Francese, dove realmente doveva vedere il comandante del reggimento, che non perdeva neanche una rappresentazione, per parlargli della sua opera di pace che lo occupava e lo divertiva da due giorni.
+PREDICTED - Vronskij andò al Teatro Francese , dove aveva avuto il comandante del reggimento che aveva fatto un ragazzo , che non aveva mai parlato a quella questione che aveva avuto il tempo per tre giorni .
+=============================================================
+SOURCE - Karenin was at the Ministry.
+TARGET - Aleksej Aleksandrovic era al ministero.
+PREDICTED - Aleksej Aleksandrovic era il denaro .
+=============================================================
+SOURCE - CHAPTER XII
+TARGET - XII
+PREDICTED - XII
+=============================================================
+SOURCE - 'No, this is awful... being a sort of slave!' exclaimed Levin, unable to restrain his annoyance any longer, but immediately conscious that he had dealt a blow to himself.
+TARGET - Questo significa essere schiavo! — proruppe Levin alzandosi e senza aver più la forza di contenere la propria stizza. Ma proprio in questo momento sentì che colpiva se stesso.
+PREDICTED - — No , è una cosa bella ! — gridò Levin , senza aver dimenticato la propria attenzione , ma , sentendo che , dopo aver notato che , a un tratto , si era messo a guardare il proprio posto .
+=============================================================
+SOURCE - The very next morning he grew irritable and cavilled at everything his brother said, touching his most sensitive spots.
+TARGET - Fin dalla mattina dopo divenne irritabile, e molestò con insistenza il fratello, toccandolo nei punti più dolorosi per lui.
+PREDICTED - Il giorno dopo , egli si alzò , si fermò e si mise a parlare con la propria posizione , disse che il suo lavoro era più .
+=============================================================
+SOURCE - 'Coming, coming!' he said, turning to a footman who had entered.
+TARGET - — Subito, subito! — disse rivolto al servo che era entrato.
+PREDICTED - — , va ’ — disse , indicando il servitore che era entrato .
+=============================================================
+SOURCE - 'Why, he's jealous!' she thought. 'Oh dear!
+TARGET - “Perché è geloso — ella pensava. — Dio mio! com’è simpatico e sciocco!
+PREDICTED - “ Perché è vero ! — pensò . — Ah , come va ’, come va bene !
+=============================================================
+SOURCE - 'What is delaying matters now?' asked Levin glancing at Sviyazhsky and Vronsky.
+TARGET - — Di che si tratta adesso? — domandò Levin, volgendosi a guardare Svijazskij e Vronskij.
+PREDICTED - — Che cosa è così ? — chiese Levin , guardando Vronskij e Vronskij .
+=============================================================
+SOURCE - Hearing a cautious step behind me, I glanced over my shoulder: one of the strangers--a gentleman, evidently--was advancing up the chancel.
+TARGET - Avendo sentito un passo leggiero dietro a me, mi volsi un poco; un signore, uno dei due stranieri, s'avanzava verso di noi.
+PREDICTED - A un tratto si fermò dietro a me , mi guardò la mano , un ' altra voce bassa ; era un signore nero , ma , , si fermò verso la scala .
+=============================================================
+SOURCE - Formerly every separate desire caused by suffering or privation, such as hunger or thirst, was relieved by some bodily action which brought enjoyment; but now privation and suffering were not followed by relief, but the attempt to obtain relief occasioned fresh suffering.
+TARGET - Prima, ogni singolo desiderio, provocato da una sofferenza o da una privazione, come la fame, la stanchezza, la sete, veniva soddisfatto con una funzione del corpo che dava piacere; ma adesso la privazione e la sofferenza non ricevevano soddisfazioni, anzi il tentativo di soddisfazione provocava una nuova sofferenza.
+PREDICTED - Prima di ogni sentimento , la natura e la natura , o la fame , era un ' idea che si fosse , ma la gioia non si , ma la sofferenza non erano più , ma la calma calma , la sofferenza era piena di spirito .
+=============================================================
+SOURCE - Please give her my love...
+TARGET - Per favore, ditele da parte mia il mio affetto.
+PREDICTED - la mia felicità ....
+=============================================================
+SOURCE - The lawyer's grey eyes tried not to laugh but they danced with irrepressible glee, and Karenin saw that it was not only the glee of a man getting profitable business; there was triumph and delight, and a gleam resembling the evil-boding gleam he had seen in his wife's eyes.
+TARGET - Gli occhi grigi dell’avvocato cercavano di non ridere, ma saltellavano qua e là per una gioia irrefrenabile, e Aleksej Aleksandrovic vedeva che in essi c’era non la sola gioia di un uomo che riceveva un incarico vantaggioso, ma come una certa entusiastica festosità, c’era uno scintillio simile a quello cattivo che aveva sorpreso negli occhi della moglie.
+PREDICTED - Il quadro di un ’ espressione severa , non vedeva , ma evidentemente , si sentiva con un ’ espressione calma , Aleksej Aleksandrovic sentiva che il sentimento di un uomo non era un uomo onesto e che un uomo onesto , che era un uomo intelligente , aveva sentito il suo sguardo di gioia .
+=============================================================
+SOURCE - No need to cower behind a gate-post, indeed!--to peep up at chamber lattices, fearing life was astir behind them! No need to listen for doors opening--to fancy steps on the pavement or the gravel-walk!
+TARGET - Non c'era più bisogno che mi nascondessi per non esser veduta.
+PREDICTED - Non c ' era nulla di ; vi è un ' ora che vi stava per per , né per fare un ' ora , né l ' orologio della villa .
+=============================================================
+SOURCE - 'Well – suppose we go to lunch at Gurin's and have a talk there?
+TARGET - — Ecco, andiamo a far colazione da Gurin e parleremo là.
+PREDICTED - — E allora , andiamo a colazione e a parlare di una cosa ?
+=============================================================
+SOURCE - There were many other delightful things which I can't just get hold of – can't catch now I'm awake.'
+TARGET - Ottime cose là; ma prova un po’ a parlarne e a pensarne; da sveglio neanche arrivi a dirle”.
+PREDICTED - C ’ erano tanti persone che non posso fare a nessuno , non posso .
+=============================================================
+SOURCE - I offered to sketch their portraits; and each, in turn, sat for a pencil outline.
+TARGET - Offrii loro di ritrarle e ognuna posò per uno studio a matita.
+PREDICTED - Mi e , e poi , un ' occhiata .
+=============================================================
+SOURCE - Varenka, who had bent to pick a mushroom, rose buoyantly and glanced round.
+TARGET - Varen’ka, che si era appena abbassata per cogliere un fungo, con un movimento agile si levò e si voltò a guardarlo.
+PREDICTED - Varen ’ ka , che era seduto accanto a lui , si alzò in un sorriso , si alzò e si mise a guardare in fretta .
+=============================================================
+SOURCE - Of course I may be making a mistake, but I believe I have some capacity for the career I have adopted, and that in my hands power of any kind, if I ever possess it, will be used in a better way than in the hands of many whom I know,' said he with the radiant consciousness of success. 'Therefore the nearer I am to getting it the more pleased I am.'
+TARGET - S’intende, forse sbaglio, ma mi sembra di avere delle possibilità in quella sfera di azione che ho scelto, e mi pare che nelle mie mani il potere, quale che sia, se ci sarà, starà meglio che nelle mani di molti a me noti — disse Serpuchovskoj con la raggiante consapevolezza del successo. — E perciò quanto più sono vicino alla mèta, tanto più sono contento.
+PREDICTED - Naturalmente , io posso essere un errore , ma io credo che la fede sia stata in una parte mia , e che ho fatto in pace , e che , se io sia necessario , sia sempre più grande , che , se sono più buono per me — disse , con le mani . — E io sono molto contento di tutto quello che sono io sono stato sempre più contento .
+=============================================================
+SOURCE - She insulted Madame Karenina.
+TARGET - Ha offeso la Karenina.
+PREDICTED - Lei ha bisogno di Karenina .
+=============================================================
+SOURCE - Then, when he was nigh unto death, lo! through the savage gloom there came to him a stately maiden, and took him by the hand and led him on through devious paths, unknown to any man, until upon the darkness of the wood there dawned a light such as the light of day was unto but as a little lamp unto the sun; and, in that wondrous light, our way-worn knight saw as in a dream a vision, and so glorious, so fair the vision seemed, that of his bleeding wounds he thought no more, but stood as one entranced, whose joy is deep as is the sea, whereof no man can tell the depth.
+TARGET - Poi, quando era quasi presso a morte, ecco, nella trista oscurità, presentarglisi una solenne donzella che l’aveva preso per mano e l’aveva condotto per difficili sentieri, sconosciuti a tutti, finchè sul buio della foresta era albeggiata una luce di fronte alla quale la luce del giorno non era che un lumicino a paragone del sole; e in quella stupenda luce, lo spossato cavaliere aveva avuto come in sogno una visione, e così mirabile, così bella gli era parsa, che non aveva pensato più alle sue ferite sanguinanti, ed era rimasto come un ammaliato la cui gioia è profonda come il mare del quale nessuno può dire la profondità.
+PREDICTED - Allora , quando egli aveva avuto in mente la morte di una morte così forte , che gli era stata messa a letto , lo aveva messo a , e lo stesso , il di sopra un uomo , che , per la luce del sole , era stato fatto in quella luce , l ’ impressione che il sole era in una luce così alta , e l ’ anima , come il sole , l ’ aveva sentito , l ’ anima , l ’ anima , l ’ anima sua , l ’ aveva vista di una vita così forte , e l ’ anima , l ’ anima sua , l ’ aveva detto , come il giorno , l ’ anima più forte , l ’ anima , l ’ anima di gioia , l ’ anima , l ’ anima , l ’ anima di cui la vita di un ’ anima .
+=============================================================
+SOURCE - Throughout the trip, he had manifested great curiosity concerning the kettle.
+TARGET - In tutta l’escursione, esso aveva mostrato una grande curiosità riguardo al calderino.
+PREDICTED - Per quanto il viaggio , aveva avuto una certa curiosità di legno .
+=============================================================
+SOURCE - I have not often met them...
+TARGET - Li ho visti poco.
+PREDICTED - Non ho visto che loro si ...
+=============================================================
+SOURCE - She only stopped dancing when she felt too tired and had to ask to be allowed a rest.
+TARGET - Tralasciava di ballare e chiedeva un po’ di riposo solo quando si sentiva troppo stanca.
+PREDICTED - Si fermò quando ella si sentì un po ’ di silenzio e voleva chiedere una cosa .
+=============================================================
+SOURCE - 'Don't you think there is something Louis Quinze about Tushkevich?' said the attaché, glancing at a handsome, fair-haired young man who stood by the tea-table.
+TARGET - — Non trovate che in Tuškevic c’è qualcosa alla Louis XV? — disse il diplomatico indicando con gli occhi un bel giovane biondo che era in piedi accanto alla tavola.
+PREDICTED - — Non vi pare che sia qualcosa di di — disse Tuškevic , indicando la voce alta , indicando con un vecchio giovane che si era avvicinato alla tavola .
+=============================================================
+SOURCE - There are hosts of aspirants who aim at mixing those two professions but I am not one of them!'
+TARGET - Un’infinità di persone ama confondere queste due funzioni, io non sono fra queste.
+PREDICTED - Sono delle due forme che vanno su quei due ... io non sono un altro .
+=============================================================
+SOURCE - In Moscow he sometimes noticed some grey hairs; fell asleep after dinner; stretched himself; walked slowly upstairs, breathing heavily; felt dull among young women, and did not dance at balls.
+TARGET - A Mosca qualche volta si guardava i capelli bianchi, si addormentava dopo pranzo, si stirava, saliva la scala al passo, respirando con affanno, si annoiava con le donne giovani, non ballava nelle feste.
+PREDICTED - In quel momento a Mosca , in qualche tempo , si sollevò i capelli bianchi , si alzò e , , si voltò con i capelli neri e guardava il viso , non in nessun modo di più dove .
+=============================================================
+SOURCE - Without waking him she returned to her room, and after a second dose of opium toward morning she fell into a heavy but troubled sleep, without ever ceasing to be conscious of herself.
+TARGET - Tornò in camera sua senza svegliarlo, e dopo una seconda dose di oppio, verso l’alba, si addormentò di un sonno pesante, non pieno, durante il quale non cessò di sentire se stessa.
+PREDICTED - Senza di nuovo il suo studio , egli l ’ aveva messo a sedere una terza volta l ’ inverno , ella si fermò in un momento senza , ma senza pensare a se stessa .
+=============================================================
+SOURCE - We love light and life.
+TARGET - Amiamo la luce e la vita.
+PREDICTED - Noi siamo e la vita .
+=============================================================
+SOURCE - 'What a curious feeling!' said Alice; 'I must be shutting up like a telescope.'
+TARGET - — Che curiosa impressione! — disse Alice, — mi sembra di contrarmi come un cannocchiale!
+PREDICTED - — Che cosa strana ! — esclamò Alice . — Vorrei esser così come un di pane !
+=============================================================
+SOURCE - You are down in the dumps to-day.'
+TARGET - Tu vedi tutto nero.
+PREDICTED - Voi siete al di .
+=============================================================
+SOURCE - "But you will have."
+TARGET - — Ma l'avrete.
+PREDICTED - — Ma vi .
+=============================================================
+SOURCE - "There, then--'Off, ye lendings!'"
+TARGET - — Ebbene, lungi da me questa mascheratura!
+PREDICTED - — Allora , Jane , venite a !
+=============================================================
+SOURCE - 'I want you to go to Moscow and beg Kitty's pardon,' said she.
+TARGET - — Voglio che andiate a Mosca e chiediate perdono a Kitty — disse lei.
+PREDICTED - — Io ti voglio andare a Mosca e — disse Kitty .
+=============================================================
+SOURCE - 'I'll fetch the executioner myself,' said the King eagerly, and he hurried off.
+TARGET - — Andrò io stesso a chiamare il carnefice, — disse il Re, e andò via a precipizio.
+PREDICTED - — Io andrò a prendere il Colombo , — disse il Re , e si mise a correre giù .
+=============================================================
+SOURCE - I bethought myself, however, that, perhaps the skin of him might, one way or other, be of some value to us; and I resolved to take off his skin if I could.
+TARGET - Pensai fra me nondimeno che la pelle di quel leone, o d’un modo o dell’altro, avrebbe potuto essere di qualche valore per noi; per lo che mi determinai a portargliela via se mi riusciva.
+PREDICTED - Io non ostante io non ostante il braccio della pelle di lui , forse gli altri , poteva essere un altro che un altro uso di noi ; e se avessi potuto , se avessi potuto la sua mano .
+=============================================================
+SOURCE - Only for the first few moments, while they were leaving the courtyard of the club, did Levin retain that sense of club calm, pleasure, and undoubted decorum in his surroundings; but as soon as the carriage had passed out into the street and he felt it jolting on the uneven road, heard the angry shouts of an izvoshchik they met, saw in the ill-lit street the red signboards of a vodka dealer and of a small shop, that sense was dissipated, and he began to consider his actions and to ask himself whether he was doing right in going to see Anna.
+TARGET - Solo nel primo momento, mentre la carrozza usciva dal portone, Levin continuò a provare l’impressione di distensione del club, di benessere e di sicuro decoro di quello che lo circondava; ma non appena la carrozza uscì sulla via ed egli sentì il traballìo del veicolo sulla strada ineguale, udì il grido rabbioso di un vetturale, e vide nella luce smorta l’insegna rossa d’una bettola e di una botteguccia, quell’impressione svanì ed egli cominciò a riflettere se faceva bene, oppure no ad andare da Anna.
+PREDICTED - Solo per la prima volta , quando Levin si erano dal cortile , Levin non si poteva neppure sentire che il quadro di lui e di essere , ma la carrozza era , mentre la carrozza si sentì il finestrino di uscire dalla strada , e sentì che il di un , e vide la strada , che era entrato in un , e che , a lungo , cominciò a parlare , cominciò a parlare con le sue faccende , per essere .
+=============================================================
+SOURCE - He feared that the peace of mind he had acquired with so much effort might be destroyed.
+TARGET - Lo terrorizzava il sospetto che potesse esserne sconvolta la propria calma conquistata.
+PREDICTED - che il lavoro per con tanto piacere , si poteva tanto spesso .
+=============================================================
+SOURCE - That is the only way to get a kettle to boil up the river.
+TARGET - È il solo mezzo sul fiume per far bollire il calderino.
+PREDICTED - È il calderino che è a bere un calderino .
+=============================================================
+SOURCE - But for a woman to be without a shadow can't be pleasant.'
+TARGET - Ma per una donna, sì che deve essere triste non aver l’ombra.
+PREDICTED - Ma per una donna non può essere un ’ ombra , non può essere piacevole .
+=============================================================
+SOURCE - 'Perhaps not,' Alice cautiously replied: 'but I know I have to beat time when I learn music.'
+TARGET - — Forse no, — rispose prudentemente Alice; — ma so che debbo battere il tempo quando studio la musica.
+PREDICTED - — Forse no , — rispose Alice , — ma so che debbo prendere il tempo quando sarò la musica .
+=============================================================
+SOURCE - Well, and how is Kitty?
+TARGET - Be’, come va Kitty?
+PREDICTED - Be ’, come è Kitty ?
+=============================================================
+SOURCE - The divining party again laid their heads together: apparently they could not agree about the word or syllable the scene illustrated. Colonel Dent, their spokesman, demanded "the tableau of the whole;" whereupon the curtain again descended.
+TARGET - Pozzo era la parola del quadro nel quale mancavano soltanto i cannelli.
+PREDICTED - La conversazione era terminata , perché non poteva la parola , né la parola del colonnello Dent , il colonnello Dent si mise in piedi nella sala .
+=============================================================
+SOURCE - Is it but the mermaids singing deep below the waving waters; or sad spirits, chanting dirges for white corpses, held by seaweed?" Harris would take you by the arm, and say: "I know what it is, old man; you've got a chill.
+TARGET - Non son le sirene che cantano nel seno profondo delle onde, o gli spiriti maligni che intonano inni funebri su pallidi cadaveri impigliati nelle alghe? — Harris lo piglierebbe per il braccio, e risponderebbe: — So io di che si tratta, amico. Tu sei febbricitante.
+PREDICTED - È il dei piedi sulla riva che si , o i , o i i da Harris , e Harris lo sapete , e io so che è il vecchio , e che io sono un uomo di pane .
+=============================================================
+SOURCE - The wind still blew in his direction, and before we reached the end of the street he was laying himself out at the rate of nearly four miles an hour, leaving the cripples and stout old ladies simply nowhere.
+TARGET - Il vento soffiava ancora nella sua direzione, e, prima che raggiungessimo l’altro capo della strada, trottava già alla velocità di quattro miglia, lasciando gli storpi e le signore grasse a distanza incalcolabile.
+PREDICTED - Il vento soffiava ancora nella sua direzione , e noi dopo aver la strada , perchè era in mezzo a quattro miglia , e in mezzo a quattro miglia , e il vecchio si con le signore .
+=============================================================
+SOURCE - He said he had never got up too early since that morning: it had been such a warning to him.
+TARGET - Egli aggiunse che da quella mattina non s’era mai levato troppo presto: la lezione gli era giovata.
+PREDICTED - Egli disse che non era ancora andato via , e che la mattina era stata tanto buona per .
+=============================================================
+SOURCE - 'How glad I am to have come to you!
+TARGET - — Ma come son contento d’essere arrivato fin qui da te!
+PREDICTED - — Come sono contento di venire !
+=============================================================
+SOURCE - 'All right, you may go home,' she said softly to Michael.
+TARGET - — Va bene, allora va’ a casa — disse piano, rivolta a Michajla.
+PREDICTED - — Va bene , va ’ a casa — disse rivolta a Matvej .
+=============================================================
+SOURCE - Every one seemed in high glee; laughter and conversation were general and animated.
+TARGET - La conversazione era generale e il signor Mason, seduto accanto al fuoco, parlava col colonnello e con la signora Dent, e pareva allegro come gli altri.
+PREDICTED - Tutti erano stati belli , una bella e bella , la conversazione e il suo viso era nobile .
+=============================================================
+SOURCE - hiding her calf from the newcomers and sniffing at it.
+TARGET - Levin entrò nel recinto, guardò la Pava e fece alzare sulle lunghe zampe traballanti la vitella bianca e rossa.
+PREDICTED - Levin la accompagnò in giù , con un movimento sottile .
+=============================================================
+SOURCE - 'Yes; yes!' she said, evidently trying to drive away her jealous thoughts. 'But if you only knew how hard it is for me!
+TARGET - — Sì, sì — ella disse, cercando evidentemente di scacciare i pensieri di gelosia. — Ma se sapessi come è penoso per me!
+PREDICTED - — Sì , sì — disse lei , evidentemente desiderando di l ’ agitazione . — Ma se tu sapessi come è necessario per me !
+=============================================================
+SOURCE - A sea trip does you good when you are going to have a couple of months of it, but, for a week, it is wicked.
+TARGET - Un viaggio di mare giova quando si tratta d’un paio di mesi, ma per una settimana non è affatto indicato.
+PREDICTED - Un viaggio di mare vi è buona , quando si è messo a sei mesi , ma è una settimana .
+=============================================================
+SOURCE - 'Are presents required?' and off he rushed to Fulda, the jeweller's.
+TARGET - — Ci vogliono dei regali? — ed egli correva da Ful’de.
+PREDICTED - — Ci sono state ? — chiese , avvicinandosi a noi . — I nostri mangiano i nostri ?
+=============================================================
+SOURCE - "Monsieur, je vous remercie mille fois de votre bonte;" then rising, she added, "C'est comme cela que maman faisait, n'est-ce pas, monsieur?"
+TARGET - — Signore, grazie mille volte per la vostra bontà! — esclamò;— poi, alzandosi, aggiunse: — Non è vero che mamma faceva così signore?
+PREDICTED - — Signore , cara bene ! — esclamò . — Allora continuò , alzandosi , , , mamma ; ma non c ’ era nulla , che non c ’ era ?
+=============================================================
+SOURCE - 'Oh yes, I should!
+TARGET - — No, vi avrei riconosciuto.
+PREDICTED - — No , avrei fatto !
+=============================================================
+SOURCE - Vronsky's quarters were always the haunt of all the officers.
+TARGET - L’abitazione di Vronskij era sempre il ritrovo di tutti gli ufficiali.
+PREDICTED - La terra era sempre stata sempre al tavolo di .
+=============================================================
+SOURCE - 'I HAVE COME FOR YOU; your washing has taken a long time!' said Petritsky. 'Well, is it done?'
+TARGET - — E io ti vengo dietro. Il bucato è durato un pezzo, oggi — disse Petrickij. — Be’, è finito?
+PREDICTED - — Io ti ho portato , ti prego ; il bucato è già portato via — disse Petrickij . — Su , è stato fatto ?
+=============================================================
+SOURCE - I have found one. I am proud of it, and consider it more honourable than the occupations of my former comrades at Court or in the Service.
+TARGET - Ho trovato questa occupazione, e ne sono orgoglioso, e la considero più nobile delle occupazioni dei miei colleghi di un tempo a corte e in servizio.
+PREDICTED - Ho trovato uno dei miei doveri , e io ne sento più importante che più dei miei doveri di loro , o più di quella società di servizio .
+=============================================================
+SOURCE - I could make it spread, but if it did not let down too, and draw in, it was not portable for me any way but just over my head, which would not do.
+TARGET - Fino a tenerlo disteso ci arrivava, ma se non poteva e spiegarlo e chiuderlo, non mi serviva più ed io voleva che mi servisse.
+PREDICTED - Io non potevo far altro che , ma se non mi fosse possibile , mi e non mi più il capo per .
+=============================================================
+SOURCE - 'He must be a precious rogue, that Fomin,' said Grinevich, referring to one of those concerned in the case under consideration.
+TARGET - — Ma deve essere un furbo matricolato quel Fomin — disse Grinevic accennando a un personaggio implicato nell’affare di cui si discuteva.
+PREDICTED - — Bisogna che egli sia un , il professore — disse Grinevic , indicando con un pensiero di pensiero per trovare in difficoltà .
+=============================================================
+SOURCE - 'This cheese is not bad. May I help you to some?' asked the host.
+TARGET - La conversazione era realmente finita nello scherzo.
+PREDICTED - — Questo lavoro è pieno di male , e io mi piace di voi ? — domandò il padrone .
+=============================================================
+SOURCE - He was no longer able to reflect on the actual problem of death, and could not hinder thoughts about what he would soon have to do: to close his brother's eyes, dress him, order a coffin.
+TARGET - Egli non poteva già più pensare alla stessa questione della morte, ma istintivamente gli sorgeva il pensiero di quello che avrebbe dovuto fare subito: chiudergli gli occhi, vestirlo, ordinare la bara.
+PREDICTED - Non aveva più la soluzione del pensiero , che si potesse non pensare a se stesso , e non poteva sopportare quello che avrebbe dovuto fare per lui , gli occhi , al fratello .
+=============================================================
+SOURCE - CHAPTER XIV
+TARGET - XIV
+PREDICTED - XIV
+=============================================================
+SOURCE - I've found it myself now.
+TARGET - L’ho trovata da me.
+PREDICTED - Mi sono svegliata .
+=============================================================
+SOURCE - THE STREETS WERE STILL EMPTY.
+TARGET - Le strade erano ancora deserte.
+PREDICTED - Le strade erano state .
+=============================================================
+SOURCE - My rest might have been blissful enough, only a sad heart broke it.
+TARGET - Il mio riposo sarebbe stato dolce senza la tristezza che mi opprimeva.
+PREDICTED - Il mio cuore poteva esser così forte , che un cuore mi opprimeva .
+=============================================================
+SOURCE - "The creature of an over-stimulated brain; that is certain. I must be careful of you, my treasure: nerves like yours were not made for rough handling."
+TARGET - — Una creazione del vostro cervello esaltato; bisogna che abbia molta cura di voi, tesoro mio; nervi come i vostri debbono essere trattati con riguardo.
+PREDICTED - — L ' uomo di , che è certo debole ; bisogna bene , Jane , il vostro cuore non sono gli altri .
+=============================================================
+SOURCE - In Moscow he sometimes noticed some grey hairs; fell asleep after dinner; stretched himself; walked slowly upstairs, breathing heavily; felt dull among young women, and did not dance at balls.
+TARGET - A Mosca qualche volta si guardava i capelli bianchi, si addormentava dopo pranzo, si stirava, saliva la scala al passo, respirando con affanno, si annoiava con le donne giovani, non ballava nelle feste.
+PREDICTED - A Mosca aveva appena visto i capelli lunghi , si levò , poi , dopo pranzo , si alzò di nuovo , guardava allegramente con i giovani , che non si scorgeva da parte di altri .
+=============================================================
+SOURCE - Karenin appeared to be considering, when suddenly he turned round and sat down at the table.
+TARGET - Aleksej Aleksandrovic si fece pensieroso, come parve al commesso, e a un tratto, voltatosi, sedette al tavolo.
+PREDICTED - Aleksej Aleksandrovic si fece pensieroso , quando a un tratto , si voltò a un tratto , e si mise a sedere alla tavola .
+=============================================================
+SOURCE - When George is hanged, Harris will be the worst packer in this world; and I looked at the piles of plates and cups, and kettles, and bottles and jars, and pies, and stoves, and cakes, and tomatoes, &c., and felt that the thing would soon become exciting.
+TARGET - Quando Giorgio sarà impiccato, Harris sarà il migliore imballatore di questo mondo, e mi misi a guardare i mucchi di piatti e di tazze, il calderino, le bottiglie e i boccali, i pasticci, i fornelli, le torte, i pomidori, eccetera; e compresi che la faccenda sarebbe diventata interessante.
+PREDICTED - Quando Harris , il più presto è possibile , Harris sarà il più , e io mi misi a guardare i piatti e i piatti , le tazze , il calderino e i biscotti , le torte , le torte , le e i pasticci , le uova che la faccenda non si faceva più nulla .
+=============================================================
