@@ -29,10 +29,10 @@ This project focuses on training a transformer model from scratch to perform bil
 
 ## Setup, Installation, & Training
 
-\```bash
+```bash
 pip install pytorch-lightning
 python main.py
-\```
+```
 
 ## Data Preparation
 
