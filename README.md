@@ -109,6 +109,10 @@ The model's performance is evaluated using the following metrics:
 
 - **BLEU scores**: BLEU (Bilingual Evaluation Understudy) is a metric for evaluating a generated sentence to a reference sentence. A perfect match results in a score of 1.0, while a perfect mismatch results in a score of 0.0.
 
+```
+Epoch 19: 100%|██████████| 455/455 [03:10<00:00,  2.38it/s, v_num=2, loss=3.270, validation_cer=0.618, validation_wer=0.938, validation_bleu=0.000]
+```
+
 ## Sample Predictions
 
 Throughout the training process, sample predictions are logged every epoch to monitor the model's translation capabilities. These predictions provide insights into how well the model is generalizing and translating unseen data. 
